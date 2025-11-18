@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @JeronimoCampuzanoC
 - 👀 I’m interested in videogames development, high performance computing and cloud computing.
-- 🌱 I’m currently a computer science student
+- 🌱 I’m currently a computer science student at EAFIT university
 - 💞️ I’m looking to collaborate on any type of projects that are in my interests 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jeronimo-campuzano-casta%C3%B1o/)
-- 😄 Pronouns: he
 - ⚡ Fun fact: I rather create videogames than playing them
 
 <!---
